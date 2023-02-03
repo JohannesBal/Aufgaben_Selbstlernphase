@@ -14,3 +14,4 @@
 
 - Tanzu
 
+- Kubernetes Concepts anschauen -> besonders Services, Loadbalancing ...
