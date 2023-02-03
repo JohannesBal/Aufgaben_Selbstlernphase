@@ -1,5 +1,7 @@
 # Aufgaben_Selbstlernphase
 
+- vi lernen
+
 
 - Wie kann ich meinen Cluster schützen abgesehen von dem Zertifikat, das ich in der kubeconfig habe?
 
@@ -9,3 +11,4 @@
 -   Ist das ein Pod oder Port?
 
 - Was macht der der (docker) expose-Befehl?
+
